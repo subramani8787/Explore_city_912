@@ -1,0 +1,120 @@
+
+.bg1
+{
+    background-image: url("./images/bgnewss.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100vh; 
+   width:100vw;
+   padding-top: 25px;
+padding-bottom:45rem;
+   position: absolute;
+   border-bottom: 30px solid rgba(0, 0, 0, 0.226)
+  
+   
+  
+}
+.bg2{
+   
+    width: 100vw;
+   
+}
+.nav2{
+    
+    margin-left:450px
+}
+.one{
+     display: flex;
+     justify-content: center;
+     
+  
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    margin-left:185px;
+    padding-top: 50px;
+
+}
+.font{
+    
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 4px;
+}
+
+.font1{
+font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.font2{
+    
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  opacity: 70%;
+
+}
+.btn1{
+   
+    background-color: rgb(255, 31, 15) !important;
+    width: 100px;
+    --bs-btn-hover-border-color: rgb(255, 255, 255) !important;
+  border-width: 2px !important;
+    transition: 1s !important;
+    
+    
+}
+.two{
+   border-radius: 20px  !important ;
+  --bs-btn-hover-bg: rgba(255, 255, 255, 0.253) !important;
+  --bs-btn-border-color: #ffffff59 !important ;
+    
+   transition: .8s !important;
+
+   
+}
+.brds{
+    border-radius: 10px !important ;
+    margin-right:10px !important ;
+}
+.b1{
+    background-color: rgba(255, 255, 255, 0.205) !important;
+     border-radius: 10px !important ;
+     transition: .8s !important;
+    
+}
+.h{
+  width: 100px !important;
+  height: 106.63px !important;
+
+}
+.bb{
+ 
+  
+
+padding-left: 35px;
+}
+.br{
+  border-color: rgba(0, 0, 0, 0.301);border-radius: 200px;
+}
+.ll{
+  display: flex;
+  justify-content:center
+}
+.click{
+  border-radius: 100px !important;
+  
+}
+
+.off{
+  width: 200px;
+  margin-top: 20px;
+  border-radius: 50px !important;
+}
